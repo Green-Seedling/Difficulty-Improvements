@@ -1,0 +1,32 @@
+{
+    "values": [
+        {
+            "id": "#better_difficulty:modded/enderscape/hostile_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/enderzoology/hostile_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/friendsandfoes/hostile_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/illagerinvasion/hostile_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/mutantmonsters/hostile_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/promenade/hostile_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/variantsandventures/hostile_mobs",
+            "required": false
+        }
+    ]
+}

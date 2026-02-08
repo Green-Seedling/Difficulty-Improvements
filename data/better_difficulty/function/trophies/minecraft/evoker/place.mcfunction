@@ -1,0 +1,2 @@
+# 召喚
+    function better_difficulty:trophies/general/place/macro {loot_path:{namespace:"better_difficulty",path:"evoker"},head_item:{id:"minecraft:player_head",count:1,components:{"minecraft:profile":{id:[I;1662638663,828198224,-1833578565,-1912836640],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA2YWMwMmZkOWRhYzk2NmI3ZTU4MDY3MzZiNmZlYjkwZTJmM2IwNTc3OTY5ZTY3MzI5MWI4MzA3YzFlZjhlNSJ9fX0="}]}}},head_size:[1.0f,1.0f,1.0f]}

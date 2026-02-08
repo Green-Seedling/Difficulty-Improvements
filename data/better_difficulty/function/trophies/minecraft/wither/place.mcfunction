@@ -1,0 +1,2 @@
+# 召喚
+    function better_difficulty:trophies/general/place/macro {loot_path:{namespace:"better_difficulty",path:"wither"},head_item:{id:"minecraft:player_head",count:1,components:{"minecraft:profile":{id:[I;338825254,-1207875601,-1991448209,1955652830],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWUyODBjZWZlOTQ2OTExZWE5MGU4N2RlZDFiM2UxODMzMGM2M2EyM2FmNTEyOWRmY2ZlOWE4ZTE2NjU4ODA0MSJ9fX0="}]},"minecraft:custom_model_data":{strings:["trophy","wither"]}}},head_size:[1.0f,1.0f,1.0f]}

@@ -1,0 +1,2 @@
+# 召喚
+    function better_difficulty:trophies/general/place/macro {loot_path:{namespace:"better_difficulty",path:"elder_guardian"},head_item:{id:"minecraft:player_head",count:1,components:{"minecraft:profile":{id:[I;-1647703341,-78099849,-1601399648,860602819],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzBmODY4Y2FmMTljZjIxMjRmMGZlZjk4ZTZiODc3M2QyN2ZiZjQyZDkzYWFiMDZiMjJlZTAzM2IyYWVlNjQ0NyJ9fX0="}]}}},head_size:[1.0f,1.0f,1.0f]}

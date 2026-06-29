@@ -1,0 +1,16 @@
+{
+    "values": [
+        "illagerinvasion:provoker",
+        "illagerinvasion:basher",
+        "illagerinvasion:sorcerer",
+        "illagerinvasion:archivist",
+        "illagerinvasion:inquisitor",
+        "illagerinvasion:marauder",
+        "illagerinvasion:invoker",
+        "illagerinvasion:alchemist",
+        "illagerinvasion:firecaller",
+        "illagerinvasion:necromancer",
+        "illagerinvasion:surrendered",
+        "illagerinvasion:illusioner"
+    ]
+}

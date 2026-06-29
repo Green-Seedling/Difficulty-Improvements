@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:item_frame",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:item_frame",
+                  "data": {
+                    "trophyPath": "minecraft/ender_dragon"
+                  },
+                  "Tags": ["Re_Difficulty.Trophy"],
+                  "Silent": true,
+                  "Invisible": true,
+                  "Facing": 1
+                },
+                "minecraft:item_name": {
+                  "translate": "item.better_difficulty.ender_dragon_trophy",
+                  "fallback": "エンダードラゴンのトロフィー"
+                },
+                "minecraft:rarity": "epic",
+                "minecraft:damage_resistant": {
+                  "types": "#better_difficulty:trophe_immune_to"
+                },
+                "minecraft:item_model": "minecraft:dragon_head"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "better_difficulty:trophies/ender_dragon"
+}

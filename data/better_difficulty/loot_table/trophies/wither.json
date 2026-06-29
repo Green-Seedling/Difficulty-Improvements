@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:item_frame",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:entity_data": {
+                  "id": "minecraft:item_frame",
+                  "data": {
+                    "trophyPath": "minecraft/wither"
+                  },
+                  "Tags": ["Re_Difficulty.Trophy"],
+                  "Silent": true,
+                  "Invisible": true,
+                  "Facing": 1
+                },
+                "minecraft:item_name": {
+                  "translate": "item.better_difficulty.wither_trophy",
+                  "fallback": "ウィザーのトロフィー"
+                },
+                "minecraft:rarity": "epic",
+                "minecraft:damage_resistant": {
+                  "types": "#better_difficulty:trophe_immune_to"
+                },
+                "minecraft:item_model": "minecraft:player_head",
+                "minecraft:profile": {
+                  "id": [
+                    338825254,
+                    -1207875601,
+                    -1991448209,
+                    1955652830
+                  ],
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWUyODBjZWZlOTQ2OTExZWE5MGU4N2RlZDFiM2UxODMzMGM2M2EyM2FmNTEyOWRmY2ZlOWE4ZTE2NjU4ODA0MSJ9fX0="
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "better_difficulty:trophies/wither_trophy"
+}

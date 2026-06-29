@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "better_difficulty:trophies/ender_dragon"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:reference",
+                    "name": "better_difficulty:difficulty/hard"
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:entities/ender_dragon"
+}

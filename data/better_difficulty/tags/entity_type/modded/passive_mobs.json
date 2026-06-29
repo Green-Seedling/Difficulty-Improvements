@@ -1,0 +1,32 @@
+{
+    "values": [
+        {
+            "id": "#better_difficulty:modded/enderscape/passive_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/enderzoology/passive_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/eternalnether/passive_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/friendsandfoes/passive_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/mutantmonsters/passive_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/promenade/passive_mobs",
+            "required": false
+        },
+        {
+            "id": "#better_difficulty:modded/takesapillage/passive_mobs",
+            "required": false
+        }
+    ]
+}

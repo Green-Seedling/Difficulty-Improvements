@@ -1,0 +1,2 @@
+# 召喚
+    function better_difficulty:trophies/general/place/macro {loot_path:{namespace:"better_difficulty",path:"illusioner"},head_item:{id:"minecraft:player_head",count:1,components:{"minecraft:profile":{id:[I;1599855440,1082867889,-1786092617,1408092924],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDYzOWQzMjVmNDQ5NDI1OGE0NzNhOTNhM2I0N2YzNGEwYzUxYjNmY2VhZjU5ZmVlODcyMDVhNWU3ZmYzMWY2OCJ9fX0="}]}}},head_size:[1.0f,1.0f,1.0f]}

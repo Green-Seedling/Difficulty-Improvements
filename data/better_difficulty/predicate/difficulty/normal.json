@@ -1,11 +1,11 @@
 {
-    "condition": "minecraft:value_check",
+    "type": "minecraft:int_value_check",
     "value": {
         "type": "minecraft:storage",
         "storage": "better_difficulty:",
         "path": "Current"
     },
-    "range": {
+    "test": {
         "min": 2
     }
 }

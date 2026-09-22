@@ -1,8 +1,6 @@
 # スコアボード
     scoreboard objectives add Re_Difficulty.Global dummy
     scoreboard objectives add Re_Difficulty.PlaceTrophy minecraft.used:minecraft.item_frame
-    
-    scoreboard objectives add Re_Difficulty.MotionSpeed dummy
 
 # forceload
     forceload add 0 0 0 0

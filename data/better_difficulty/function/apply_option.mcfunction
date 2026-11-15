@@ -11,6 +11,9 @@
     #カスタム設定
         execute if data storage better_difficulty: option.custom run data modify storage better_difficulty: health_scaling.custom set from storage better_difficulty: option.custom
 
+    #ウェイポイントの設定
+        execute if data storage better_difficulty: option.waypoint run data modify storage better_difficulty: waypoints set from storage better_difficulty: option.waypoint
+
     #行商人の追加の販売内容
         execute if data storage better_difficulty: option.additional_offers run data modify storage better_difficulty: wandering_trader.additional_offers set from storage better_difficulty: option.additional_offers
         execute store result storage better_difficulty: wandering_trader.offer_count int 1.0 run data get storage better_difficulty: wandering_trader.additional_offers

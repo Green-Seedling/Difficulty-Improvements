@@ -18,8 +18,7 @@
                   },
                   "Tags": ["Re_Difficulty.Trophy"],
                   "Silent": true,
-                  "Invisible": true,
-                  "Facing": 1
+                  "Invisible": true
                 },
                 "minecraft:item_name": {
                   "translate": "item.better_difficulty.elder_guardian_trophy",

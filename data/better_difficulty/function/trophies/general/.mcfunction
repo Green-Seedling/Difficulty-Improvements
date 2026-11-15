@@ -1,5 +1,5 @@
 # 下にブロックがなかったとき
-    execute if block ~ ~-1 ~ #minecraft:air run function better_difficulty:trophies/general/break
+    #execute if block ~ ~-1 ~ #minecraft:air run function better_difficulty:trophies/general/break
 
 # プレイヤーに左クリックされたとき
     execute if predicate {type:"minecraft:entity_properties",entity:"this",predicate:{nbt:"{attack:{}}"}} run function better_difficulty:trophies/general/break

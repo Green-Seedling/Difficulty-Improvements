@@ -15,5 +15,8 @@
 # 武器、防具のドロップ率が上がる
     function better_difficulty:entities/asset/drop_chances
 
+# ウェイポイントの追加
+    function better_difficulty:entities/asset/waypoint/
+
 # タグ付け
     tag @s add Re_Difficulty.Asset
